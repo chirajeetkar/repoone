@@ -4,4 +4,4 @@ Updated in local branch localrepoone
 Edited in D:\TestGit\repoone_2\repoone
 Edited in D:\TestGit\repoone
 To check stash - pushed from repoone_2
-Edited to check jenkins integration github hook
+Edited to check jenkins integration periodic polling
